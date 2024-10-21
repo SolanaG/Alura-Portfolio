@@ -283,6 +283,12 @@ li {
   background-color: var(--color-boton-hover);
 }
 
+.error-message {
+  color: red;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
 /* ------------------------------ Responsividad ---------------------------------------*/
 /* Móviles */
 @media (min-width: 320px) and (max-width: 480px) {
