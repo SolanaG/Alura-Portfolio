@@ -249,6 +249,10 @@ li {
   line-height: 1.8;
 }
 
+.encriptador_img {
+  width: 100%;
+}
+
 /* ------------------------------ Sección de Contacto ---------------------------------*/
 .contacto {
   padding: 2rem;
